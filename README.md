@@ -40,10 +40,10 @@
 
 ## 📌 Highlight Projects
 
-- ⚡️ [**Neural Network on CUDA**](https://github.com/NgoPhamMinhDuc/neural-net-cuda)  
+- ⚡️ [**Neural Network on CUDA**](https://github.com/BaekMinhDuc/Neural-Network-using-Cuda.git)  
   Build and optimize simple neural networks running on GPU with pure CUDA code.
 
-- 🔧 [**Linux Kernel Driver for LCD1602**](https://github.com/NgoPhamMinhDuc/lcd1602-kernel-driver)  
+- 🔧 [**Linux Kernel Driver for LCD1602**](https://github.com/BaekMinhDuc/EmbededOS_Linux_Kernel_Character_Device_LCD16x2.git)  
   A character device driver written in C for controlling LCD1602 via I2C on Raspberry Pi.
 
 ---
