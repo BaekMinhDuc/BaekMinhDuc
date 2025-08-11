@@ -1,13 +1,14 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:4299E1&height=200&section=header&text=Ngô%20Phạm%20Minh%20Đức&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,100:ffd93d&height=200&section=header&text=Ngô%20Phạm%20Minh%20Đức&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h3 align="center">💡 Aspiring AI Engineer | C/C++ • Python • CUDA • Deep Learning 💡</h3>
+<h3 align="center">🎓 Student at Hanoi University of Science and Technology (HUST)</h3>
+<h4 align="center">📡 Smart Embedded Systems & IoT | Aspiring AI Engineer</h4>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=🚀+Pushing+AI+to+the+Edge;💻+C/C%2B%2B+%7C+Python+%7C+CUDA;🧠+Machine+Learning+%26+Deep+Learning;🎯+Computer+Vision+%26+Embedded+AI;🐧+Linux+Kernel+Driver+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=🚀+Future+AI+Engineer;💻+C/C%2B%2B+%7C+Python+%7C+CUDA;🧠+Deep+Learning+%26+Edge+AI;📷+Computer+Vision+for+Smart+Systems;🐧+Linux+Kernel+Driver+Development" />
 </p>
 
 ---
