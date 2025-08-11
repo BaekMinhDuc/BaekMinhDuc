@@ -13,7 +13,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=650&lines=AI+Engineer;C/C++%2C+Python%2C+CUDA;Deep+Learning+%7C+Computer+Vision;Linux+Kernel+Driver+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=🚀+Aspiring+AI+Engineer+from+HUST;💡+Smart+Embedded+Systems+%7C+Edge+AI;💻+C/C%2B%2B+%7C+Python+%7C+CUDA;🧠+Deep+Learning+%7C+Computer+Vision;🐧+Linux+Kernel+%7C+Device+Drivers" />
 </p>
 
 ---
