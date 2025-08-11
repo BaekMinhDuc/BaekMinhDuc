@@ -5,7 +5,7 @@
 
 <!-- HUST Logo -->
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f9/Logo_HUST_2021.svg/768px-Logo_HUST_2021.svg.png" alt="HUST logo" width="100" />
+  <img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Bach-Khoa-Ha-Noi-HUST-768x1155.png" alt="HUST logo" width="100" />
 </p>
 
 <h3 align="center">🎓 Student at Hanoi University of Science and Technology (HUST)</h3>
