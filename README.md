@@ -38,7 +38,8 @@
 - ⚡ [**Neural Network on CUDA**](https://github.com/BaekMinhDuc/Neural-Network-using-Cuda.git)  
   Build and optimize neural networks running directly on GPU with **pure CUDA**.
 
-- 🔧 [**Linux Kernel Driver for LCD1602**](https://github.com/BaekMinhDuc/EmbededOS_Linux_Kernel_Character_Device_LCD16x2.git)  
+- 🔧 [**Linux Kernel Driver for LCD1602**](https://github.com/BaekMinhDuc/EmbededOS_Linux_Kernel_Character_Device_LCD16x2.git
+)  
   **Character device driver** in C for controlling LCD1602 via I2C on Raspberry Pi.
 
 - 👤 [**Face Recognition**](https://github.com/BaekMinhDuc/Face_Recognition.git)  
@@ -55,7 +56,7 @@
   <a href="mailto:mcminhduc2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-link-if-any">
+  <a href="[https://linkedin.com/in/your-link-if-any](https://www.linkedin.com/in/duc-ngo-9b2b95248/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/NgoPhamMinhDuc">
