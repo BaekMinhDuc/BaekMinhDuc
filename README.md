@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">🎓 Student at Hanoi University of Science and Technology (HUST)</h3>
-<h4 align="center">📡 Smart Embedded Systems & IoT | Aspiring AI Engineer</h4>
+<h4 align="center">📡 Smart Embedded Systems & IoT | AI Engineer</h4>
 
 <!-- Typing Animation -->
 <p align="center">
